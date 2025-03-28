@@ -15,7 +15,7 @@ public class Factorial {
      */
     //recursivo para calcular el factorial
     public static long factorialRecursivo(int n) {
-        n ;
+        n =1;
     }
 
     // si un numero es mayor a 0 y no negativos
